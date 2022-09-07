@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/<LABEL>-HTML5-e34f26"/>
 <img src="https://img.shields.io/badge/<LABEL>-CSS3-321011"/>
 <img src="https://img.shields.io/badge/<LABEL>-JavaScript-1572b6"/>
-<img src="https://img.shields.io/badge/<LABEL>-React-404d59"/>
+<img src="https://img.shields.io/badge/<LABEL>-React-4f4d59"/>
 <img src="https://img.shields.io/badge/<LABEL>-NodeJS-7da55f"/>
 <img src="https://img.shields.io/badge/<LABEL>-MongoDB-4ea94b"/>
 <img src="https://img.shields.io/badge/<LABEL>-Postman-ff6c37"/>

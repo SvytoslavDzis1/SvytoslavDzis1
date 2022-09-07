@@ -21,6 +21,7 @@
 <img align='left' alt='Webpack' src="https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge&logo=Webpack&logoColor=black"/>
 <img alt='GitHub' src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
+***
 
 ## Чем я еще увлекаюсь 🤗
 

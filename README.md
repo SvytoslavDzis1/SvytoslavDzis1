@@ -5,14 +5,13 @@
 <h3 align="center">Мой стек:</h3>
 
 <img src="https://img.shields.io/badge/<LABEL>-HTML5-e34f26"/>
-<img src="https://img.shields.io/badge/<LABEL>-CSS3-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-JavaScript-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-React-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-NodeJS-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-MongoDB-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-Postman-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-Webpack-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-GitHub-<COLOR>"/>
-<img src="https://img.shields.io/badge/<LABEL>-HTML5-<GitHub>"/>
+<img src="https://img.shields.io/badge/<LABEL>-CSS3-#321011"/>
+<img src="https://img.shields.io/badge/<LABEL>-JavaScript-323330"/>
+<img src="https://img.shields.io/badge/<LABEL>-React-404d59"/>
+<img src="https://img.shields.io/badge/<LABEL>-NodeJS-7da55f"/>
+<img src="https://img.shields.io/badge/<LABEL>-MongoDB-4ea94b"/>
+<img src="https://img.shields.io/badge/<LABEL>-Postman-ff6c37"/>
+<img src="https://img.shields.io/badge/<LABEL>-Webpack-20232a"/>
+<img src="https://img.shields.io/badge/<LABEL>-GitHub-1572b6"/>
 
 ***

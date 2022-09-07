@@ -4,7 +4,7 @@
 ***
 <h3 align="center">Мой стек:</h3>
 
-<img src="https://img.shields.io/badge/HTML5-934f26?style=for-the-badge&logo=HTML5"/>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5=white"/>
 <img src="https://img.shields.io/badge/<LABEL>-CSS3-321011"/>
 <img src="https://img.shields.io/badge/<LABEL>-JavaScript-1572b6"/>
 <img src="https://img.shields.io/badge/<LABEL>-React-8f4d59"/>

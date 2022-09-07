@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/<LABEL>-NodeJS-7da55f"/>
 <img src="https://img.shields.io/badge/<LABEL>-MongoDB-4ea94b"/>
 <img src="https://img.shields.io/badge/<LABEL>-Postman-ff6c37"/>
-<img src="https://img.shields.io/badge/<LABEL>-Webpack-20232a"/>
+<img src="https://img.shields.io/badge/<LABEL>-Webpack-#8dd6f9"/>
 <img src="https://img.shields.io/badge/<LABEL>-GitHub-323330"/>
 
 ***

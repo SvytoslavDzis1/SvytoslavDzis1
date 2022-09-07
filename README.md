@@ -27,3 +27,5 @@
 - 📚 Нравится читать книги 
 - 🏃 Нравится спорт и активный отдых
 - 🌍 Нравится путешествовать
+
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvytoslavDzis1&show_icons=true&theme=synthwave)

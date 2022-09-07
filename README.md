@@ -15,7 +15,7 @@
 <img align='left' alt='React' src="https://img.shields.io/badge/React-8f4d59?style=for-the-badge&logo=React&logoColor=white"/>
 <img align='left' alt='NodeJS' src="https://img.shields.io/badge/NodeJS-7da55f?style=for-the-badge&logo=NodeJS&logoColor=white"/>
 <img align='left' alt='MongoDB' src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-<img align='left' alt='Postman' src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img align='left' alt='Postman' src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white"/></br>
 <img align='left' alt='Webpack' src="https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge&logo=Webpack&logoColor=black"/></br>
 </br>
 <img alt='GitHub' src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=GitHub&logoColor=white"/>

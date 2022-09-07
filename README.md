@@ -28,5 +28,5 @@
 - 🏃 Нравится спорт и активный отдых
 - 🌍 Нравится путешествовать
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SvytoslavDzis1&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvytoslavDzis1&layout=compact&theme=vision-friendly-dark)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SvytoslavDzis1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvytoslavDzis1&layout=compact&theme=vision-friendly-dark)
